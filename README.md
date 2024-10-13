@@ -48,7 +48,7 @@ Check out the [Projects tab](https://github.com/jarvismayur/Shaylam/projects) fo
 
 For inquiries or further assistance, please contact us via:
 - **Website**: [https://shalyam.com](https://shalyam.com)
-- **Email**: [your-email@example.com](mailto:tembharemayur@gmail.com) (Replace with actual contact)
+- **Email**: [tembharemayur@gmail.com](mailto:tembharemayur@gmail.com) (Replace with actual contact)
 
 ## License
 
