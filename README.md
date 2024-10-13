@@ -19,8 +19,8 @@ This repository is for:
 
 To get started with contributing, or if you have feedback, please check the following sections:
 
-1. **Issues**: Use the [Issues tab](https://github.com/your-username/Shaylam/issues) to report bugs or suggest features.
-2. **Discussions**: Visit the [Discussions tab](https://github.com/your-username/Shaylam/discussions) to participate in ongoing conversations.
+1. **Issues**: Use the [Issues tab](https://github.com/jarvismayur/Shaylam/issues) to report bugs or suggest features.
+2. **Discussions**: Visit the [Discussions tab](https://github.com/jarvismayur/Shaylam/discussions) to participate in ongoing conversations.
 3. **Roadmap**: Check out our development roadmap to see planned features and current progress.
 
 ## How to Report Issues
@@ -42,13 +42,13 @@ For more details, refer to our [Contribution Guidelines](CONTRIBUTING.md) (if yo
 
 ## Project Status and Roadmap
 
-Check out the [Projects tab](https://github.com/your-username/Shaylam/projects) for the current status and planned work. We regularly update the roadmap to reflect ongoing developments.
+Check out the [Projects tab](https://github.com/jarvismayur/Shaylam/projects) for the current status and planned work. We regularly update the roadmap to reflect ongoing developments.
 
 ## Contact
 
 For inquiries or further assistance, please contact us via:
 - **Website**: [https://shalyam.com](https://shalyam.com)
-- **Email**: [your-email@example.com](mailto:your-email@example.com) (Replace with actual contact)
+- **Email**: [your-email@example.com](mailto:tembharemayur@gmail.com) (Replace with actual contact)
 
 ## License
 
