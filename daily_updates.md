@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: default
 title: "Daily Updates"
 permalink: /daily-updates/
 theme: jekyll-theme-minimal
 ---
 
-
-## Daily Updates 
+# Daily Updates
