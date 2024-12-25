@@ -3,3 +3,11 @@ description: Daily and upcoming updates for the Shalyam project
 baseurl: "" # Ensure this is blank if you're using a custom domain
 url: "https://project.shalyam.com"
 theme: jekyll-theme-minimal
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Daily Updates"
+    url: /daily_updates/
+  - title: "Upcoming Updates"
+    url: /upcoming_updates/
