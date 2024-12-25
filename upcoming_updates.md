@@ -18,6 +18,6 @@ theme: jekyll-theme-minimal
 
 5. **Agroecology: Sustainable Farming for a Better Tomorrow**  
 
----
+
 
 Stay updated as we continue to expand our knowledge base with these exciting topics!  
