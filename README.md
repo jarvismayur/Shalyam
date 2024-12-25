@@ -6,7 +6,7 @@ Welcome to the **Shalyam Project Repository**! This public repository is dedicat
 
 ## About Shalyam
 
-**Shalyam** is a platform that [briefly describe the purpose of Shalyam, e.g., "empowers students, educators, and institutions with innovative EdTech solutions"]. Our mission is to [state the primary mission, e.g., "bridge the gap between technology and education to create seamless learning experiences"]. 
+**Shalyam** is a platform that empowers learners to achieve their full potential through innovative education. Our mission is to provide a comprehensive educational platform that equips learners with the knowledge and skills they need to succeed in a rapidly changing world. Through our cutting-edge resources, collaborative tools, and expert network, we aim to inspire and empower learners to achieve their full potential.
 
 This repository serves as a central hub for:
 - Issue tracking.
