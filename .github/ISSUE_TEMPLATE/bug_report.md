@@ -1,24 +1,46 @@
-## Bug Report
+---
+name: "Bug Report"
+about: "Report a bug or unexpected behavior"
+title: "[Bug] "
+labels: ["bug"]
+assignees: []
+---
 
-**Describe the bug**
-A clear and concise description of the issue. Include any error messages or screenshots if applicable.
 
-**Steps to Reproduce**
-1. Go to '...'
-2. Click on '...'
-3. Scroll down to '...'
-4. See the error
+## Bug Report: [Bug Title]
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Description
+[A clear and concise description of the bug.]
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Steps to Reproduce
+1. [List the steps to reproduce the issue.]
+2. [Mention any specific conditions or environments.]
+3. [Include test data if applicable.]
 
-**Environment (please complete the following information):**
-- OS: [e.g., Windows, Linux]
-- Browser [e.g., Chrome, Firefox]
-- Shaylam Version [e.g., v1.0.0]
+### Expected Behavior
+[Describe what should happen if the bug is fixed.]
 
-**Additional context**
-Add any other context about the problem here.
+### Actual Behavior
+[Describe what actually happens, including error messages.]
+
+### Screenshots/Logs
+[Attach relevant screenshots, logs, or error messages if available.]
+
+### Environment
+- **OS:** [Windows/macOS/Linux]
+- **Browser:** [Chrome, Firefox, Edge, etc.]
+- **Device:** [PC, Mobile, Tablet]
+- **Version:** [Application version, if applicable]
+
+### Possible Fixes
+[Suggest any fixes or workarounds, if known.]
+
+### Priority
+- [ ] High
+- [ ] Medium
+- [ ] Low
+
+### Next Steps
+1. [Identify who should investigate or fix this issue.]
+2. [Define testing scenarios to verify the fix.]
+3. [Mention any deployment considerations.]
